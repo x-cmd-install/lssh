@@ -7,7 +7,7 @@ about:
   head: ea86bba
   archived: false
   latestVersion: v0.10.0
-  collectedAt: 2026-09-04T19:36:31Z
+  collectedAt: 2026-09-04T20:56:17Z
 timeline:
   created: 2017-01-02
   lastCommit: 2026-04-26
@@ -83,6 +83,114 @@ total:
   openIssue: 15
   commit: 999
 ---
+path: /home/runner/.x-repo/github.com/blacknon/lssh
+collectedAt: 2026-09-04T20:56:28Z
+loc:
+  Go:
+    code: 1550894
+    comments: 319362
+    blanks: 201516
+    files: 4608
+  Json:
+    code: 110205
+    comments: 0
+    blanks: 0
+    files: 14
+  AssemblyGAS:
+    code: 17722
+    comments: 862
+    blanks: 2286
+    files: 60
+  CHeader:
+    code: 2012
+    comments: 693
+    blanks: 579
+    files: 4
+  Sh:
+    code: 1671
+    comments: 184
+    blanks: 170
+    files: 23
+  Makefile:
+    code: 1080
+    comments: 120
+    blanks: 265
+    files: 16
+  Yaml:
+    code: 721
+    comments: 24
+    blanks: 54
+    files: 14
+  Toml:
+    code: 592
+    comments: 38
+    blanks: 77
+    files: 8
+  Svg:
+    code: 301
+    comments: 0
+    blanks: 4
+    files: 1
+  PowerShell:
+    code: 171
+    comments: 15
+    blanks: 26
+    files: 2
+  Dockerfile:
+    code: 142
+    comments: 1
+    blanks: 40
+    files: 7
+  Fish:
+    code: 139
+    comments: 0
+    blanks: 0
+    files: 10
+  Python:
+    code: 97
+    comments: 1
+    blanks: 15
+    files: 1
+  Bash:
+    code: 90
+    comments: 9
+    blanks: 17
+    files: 3
+  C:
+    code: 51
+    comments: 14
+    blanks: 16
+    files: 2
+  Bitbake:
+    code: 32
+    comments: 0
+    blanks: 5
+    files: 5
+  Protobuf:
+    code: 28
+    comments: 50
+    blanks: 18
+    files: 2
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 26477
+    blanks: 13089
+    files: 244
+  Text:
+    code: 0
+    comments: 3989
+    blanks: 577
+    files: 37
+total:
+  code: 1693202
+  comments: 352824
+  blanks: 220035
+  files: 5062
 ---
 date: "2026-08-24"
 repo:
