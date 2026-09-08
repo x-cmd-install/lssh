@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 110131690,
       "digest": "sha256:72db7b5beb8a7750e3c69bac2dfb528ab2444ddd0efabfe4674cefe4865d3a96",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-04-26T12:51:34Z",
       "updated_at": "2026-04-26T12:51:38Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh_0.10.0_amd64.deb"
