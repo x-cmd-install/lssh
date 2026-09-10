@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11606515,
       "digest": "sha256:63705067929db437637cf0ac5e3b062b15a1ba7f1d563d5cdf079565bedeeb9d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-04-26T12:51:23Z",
       "updated_at": "2026-04-26T12:51:24Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-core-0.10.0-1.x86_64.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11937084,
       "digest": "sha256:fed71958344a45def4b64d3216211f95912d891755904bd7dc0fe355d0e71f0d",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-04-26T12:51:25Z",
       "updated_at": "2026-04-26T12:51:26Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-monitor-0.10.0-1.x86_64.rpm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 11851522,
       "digest": "sha256:0539dc36e03793826cfe0e368cb5509872e11846eb0228bd13929270f56929e2",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-04-26T12:51:26Z",
       "updated_at": "2026-04-26T12:51:27Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-monitor_0.10.0_linux_amd64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 33801061,
       "digest": "sha256:3338531898d42d85b137a8d808704b289b2f0a541aef224e6006dfeb867aee84",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-04-26T12:51:28Z",
       "updated_at": "2026-04-26T12:51:29Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-sysadmin-0.10.0-1.x86_64.rpm"
