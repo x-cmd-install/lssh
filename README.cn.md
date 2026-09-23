@@ -4,7 +4,7 @@
 
 A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring.
 
-[![x-cmd/install — lssh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lssh.svg?lang=zh)](https://x-cmd.com/install/lssh)
+[![x-cmd/install — lssh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lssh.svg?lang=zh)](https://x-cmd.com/install/lssh)
 
 ## 安装
 
@@ -31,8 +31,8 @@ x install lssh
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install lssh
 
 ## 流行度
 
-- **Star**: 326 · **Fork**: 33 · **开放 issue**: 99 · **贡献者**: 5
+- **Star**: 327 · **Fork**: 33 · **开放 issue**: 99 · **贡献者**: 5
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install lssh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-03-26 | 5 | 16 | 5 | 0 | 3 | 137 |
-| 360d | 2025-09-27 | 6 | 19 | 5 | 0 | 3 | 146 |
-| last720d | 2024-10-02 | 6 | 19 | 5 | 1 | 3 | 162 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last180d | 2026-03-27 | 5 | 13 | 5 | 0 | 3 | 137 |
+| 360d | 2025-09-28 | 6 | 19 | 5 | 0 | 3 | 146 |
+| last720d | 2024-10-03 | 6 | 19 | 5 | 1 | 3 | 162 |
 
 ## Release 资产
 
@@ -118,4 +118,4 @@ lssh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:10:45Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:12:06Z._
