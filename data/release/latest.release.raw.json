@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 11851522,
       "digest": "sha256:0539dc36e03793826cfe0e368cb5509872e11846eb0228bd13929270f56929e2",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-04-26T12:51:26Z",
       "updated_at": "2026-04-26T12:51:27Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-monitor_0.10.0_linux_amd64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 92060208,
       "digest": "sha256:324b6576c712777d2cb59f29f2b753bfd851cb71b1717a5990c59974d627e618",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-04-26T12:51:35Z",
       "updated_at": "2026-04-26T12:51:38Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh_0.10.0_windows_amd64.zip"
