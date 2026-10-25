@@ -18,10 +18,10 @@
   srcname: lssh
   binname: lssh
   visiblename: lssh
-  version: 0.3.1
-  origversion: 0.3.1-1
+  version: 0.3.2
+  origversion: 0.3.2-1
   status: outdated
-  summary: Simple SSH server manager with a live stats bar
+  summary: Simple SSH server manager
   maintainers:
     - lecer@aur
   licenses:
