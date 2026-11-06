@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 182731086,
       "digest": "sha256:7fda4873d103c91881c300d84673d917866495187486cfdecbe52dfc106b5597",
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2026-04-26T12:51:22Z",
       "updated_at": "2026-04-26T12:51:27Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-complete_0.10.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11606515,
       "digest": "sha256:63705067929db437637cf0ac5e3b062b15a1ba7f1d563d5cdf079565bedeeb9d",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-04-26T12:51:23Z",
       "updated_at": "2026-04-26T12:51:24Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-core-0.10.0-1.x86_64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11609482,
       "digest": "sha256:ac4aaad02c1b8f3f9645f71d64c5d864fc229122801e0395bda1582bda149a33",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-04-26T12:51:24Z",
       "updated_at": "2026-04-26T12:51:24Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-core_0.10.0_amd64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 11851522,
       "digest": "sha256:0539dc36e03793826cfe0e368cb5509872e11846eb0228bd13929270f56929e2",
-      "download_count": 66,
+      "download_count": 67,
       "created_at": "2026-04-26T12:51:26Z",
       "updated_at": "2026-04-26T12:51:27Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-monitor_0.10.0_linux_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 7119770,
       "digest": "sha256:914f5cd8c577edbe7290c36952ea3cc2a18fe44453ef3938106118aa2d48cf07",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-04-26T12:51:27Z",
       "updated_at": "2026-04-26T12:51:27Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-monitor_0.10.0_windows_amd64.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 32875105,
       "digest": "sha256:4f251ed8bbae20012c9831b59724d8cc5b7aa9fe5f04e6b80f691dea1a4e7d34",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-04-26T12:51:30Z",
       "updated_at": "2026-04-26T12:51:31Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-sysadmin_0.10.0_windows_amd64.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 52754256,
       "digest": "sha256:584ed8b7a6d7ecb004e88429a6e5fd1fadc5bfc0d490d2be754fa1ab7c61543f",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-04-26T12:51:31Z",
       "updated_at": "2026-04-26T12:51:33Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-transfer-0.10.0-1.x86_64.rpm"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 122238595,
       "digest": "sha256:db3453cbc8aaf0c1b2f18825cc66c42cef6f8143103c36c9f0e0551b758954c5",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-04-26T12:51:34Z",
       "updated_at": "2026-04-26T12:51:38Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh_0.10.0_darwin_amd64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 112679530,
       "digest": "sha256:c8b7e8aa15bf1a39a9ca0fda5c1790a9754e00cf37ae58f119de0ec0c39e909b",
-      "download_count": 56,
+      "download_count": 59,
       "created_at": "2026-04-26T12:51:34Z",
       "updated_at": "2026-04-26T12:51:39Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh_0.10.0_darwin_arm64.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 109331468,
       "digest": "sha256:4a45e5165393374edb71f875a1bd781dc552e65dff516c3c12797e3fd179b096",
-      "download_count": 100,
+      "download_count": 103,
       "created_at": "2026-04-26T12:51:34Z",
       "updated_at": "2026-04-26T12:51:38Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh_0.10.0_linux_amd64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 92060208,
       "digest": "sha256:324b6576c712777d2cb59f29f2b753bfd851cb71b1717a5990c59974d627e618",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-04-26T12:51:35Z",
       "updated_at": "2026-04-26T12:51:38Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh_0.10.0_windows_amd64.zip"
