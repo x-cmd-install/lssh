@@ -18,8 +18,8 @@
   srcname: lssh
   binname: lssh
   visiblename: lssh
-  version: 0.4.0
-  origversion: 0.4.0-1
+  version: 0.4.1
+  origversion: 0.4.1-1
   status: outdated
   summary: Simple SSH server manager
   maintainers:
