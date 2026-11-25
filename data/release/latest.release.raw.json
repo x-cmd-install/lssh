@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 185739036,
       "digest": "sha256:679941b3a06a7bb4df925fa0a5512e185179aeb2056a6c8726805bffe44e797a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-04-26T12:51:19Z",
       "updated_at": "2026-04-26T12:51:24Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-complete_0.10.0_darwin_arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 11851522,
       "digest": "sha256:0539dc36e03793826cfe0e368cb5509872e11846eb0228bd13929270f56929e2",
-      "download_count": 83,
+      "download_count": 84,
       "created_at": "2026-04-26T12:51:26Z",
       "updated_at": "2026-04-26T12:51:27Z",
       "browser_download_url": "https://github.com/blacknon/lssh/releases/download/v0.10.0/lssh-monitor_0.10.0_linux_amd64.tar.gz"
